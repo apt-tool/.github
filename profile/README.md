@@ -19,3 +19,4 @@ Computer Science departments at Amirkabir University of Tehran, Iran.
 - ```APT ml model```: machine learning model
 - ```APT client```: user interface
 - ```APT targets```: testing targets
+- ```Deployments```: charts and manifestations for deploying system
