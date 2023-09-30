@@ -1,6 +1,6 @@
-# APT Tool
+# PTaaS
 
-This organization is for ```automated penetration testing``` tool. ```APT``` is a network
+This organization is for ```automated penetration testing``` tool (aka Penetration testing as a service). ```APT``` is a network
 security program for performing penetration testing automatically. This organization is
 the code base of ```APT```. Designend and implemented by students of Computer Engineering and
 Computer Science departments at Amirkabir University of Tehran, Iran.
