@@ -1,8 +1,8 @@
 # PTaaS
 
-This organization is for ```automated penetration testing``` tool (aka Penetration testing as a service). ```APT``` is a network
+This organization is for ```automated penetration testing``` tool (aka Penetration Testing as a Service). ```PTaaS``` is a network
 security program for performing penetration testing automatically. This organization is
-the code base of ```APT```. Designend and implemented by students of Computer Engineering and
+the code base of ```PTaaS Tool```. Designend and implemented by students of Computer Engineering and
 Computer Science departments at Amirkabir University of Tehran, Iran.
 
 ## project members
@@ -13,10 +13,10 @@ Computer Science departments at Amirkabir University of Tehran, Iran.
 
 ## project components
 
-- ```APT gateway```: project gateway api
-- ```APT core```: project core/base api system
-- ```APT instructions```: file manager component
-- ```APT ml model```: machine learning model
-- ```APT client```: user interface
-- ```APT targets```: testing targets
-- ```Deployments```: charts and manifestations for deploying system
+- ```gateway```: project gateway api
+- ```base-api```: project core/base api system
+- ```ftp server```: file manager component
+- ```ml```: machine learning model
+- ```dashboard```: user interface
+- ```test targets```: testing targets
+- ```deployments```: charts and manifestations for deploying test systems
