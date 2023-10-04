@@ -10,6 +10,7 @@ Computer Science departments at Amirkabir University of Tehran, Iran.
 - Dr.Babak Sadeghian , Professor at Computer Engineering Dep, Amirkabir University of Tehran (```Project Supervisor```)
 - [Amirhossein Najafizadeh](https://www.linkedin.com/in/amirnhnajafiz21/) , Student at Computer Engineering Dep, Amirkabir University of Tehran (```Developer```/```Technical```)
 - [Asal Delkhosh](https://www.linkedin.com/in/asaldelkhosh/) , Student at Computer Science Dep, Amirkabir University of Tehran (```Developer```/```Data Scientist```)
+- Dr.Seyavash Khorsandi , Professor at Computer Engineering Dep, Amirkabir University of Tehran (```Internal Examiner```)
 
 ## project components
 
