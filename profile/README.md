@@ -20,4 +20,4 @@ This organization contains the code base of ```PTaaS Tool```.
 - ```ml```: machine learning model
 - ```dashboard```: user interface
 - ```test targets```: testing targets
-- ```deployments```: manifestations for deploying test systems
+- ```deployments```: manifestations for deploying application
