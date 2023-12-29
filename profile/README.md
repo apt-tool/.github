@@ -18,11 +18,11 @@ PTaaS is designend and implemented by students of Computer Engineering and Compu
 
 ## about project
 
-| repositories      | Description |
+| Repositories      | Description |
 | ----------------- | ----------- |
 | Gateway      | project gateway api system       |
 | Base-API   | project base api system        |
 | FTP-Server   | file manager system        |
 | ML   | machine learning model        |
 | Dashboard   | user interface        |
-| Scanner   | vs system        |
+| Scanner   | scanner system        |
