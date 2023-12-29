@@ -1,23 +1,28 @@
-# PTaaS
+# :fire: PTaaS
 
-Welcome to ```PTaaS``` official organization page. This organization is for ```automated penetration testing``` tool (aka Penetration Testing as a Service).
-```PTaaS``` is a network security program for performing penetration testing automatically.
-This organization contains the code base of ```PTaaS Tool```.
-```PTaaS``` is designend and implemented by students of Computer Engineering and Computer Science departments at Amirkabir University of Technology.
+Welcome to __PTaaS (short form of Penetration Testing as a Service)__ official organization.
+PTaaS is a service for performing automated penetration testings. It is a network security application that
+reduces costs of a penetration testing. Also, it provides more observability over the testing process.
 
-## project members
+## about members
 
-- [Dr.Babak Sadeghian](https://aut.ac.ir/cv/2102/BABAK%20SADEGHIYAN) , Professor at Computer Engineering Dep, Amirkabir University of Tehran (```Project Supervisor```)
-- [Amirhossein Najafizadeh](https://www.linkedin.com/in/amirnhnajafiz21/) , Student at Computer Engineering Dep, Amirkabir University of Tehran (```Developer```/```Technical```)
-- [Asal Delkhosh](https://www.linkedin.com/in/asaldelkhosh/) , Student at Computer Science Dep, Amirkabir University of Tehran (```Developer```/```Data Scientist```)
-- [Dr.Seyavash Khorsandi](https://aut.ac.ir/cv/2261/SIAVASH%20KHORSANDI) , Professor at Computer Engineering Dep, Amirkabir University of Tehran (```Internal Examiner```)
+PTaaS is designend and implemented by students of Computer Engineering and Computer Science departments at __Amirkabir University of Technology__.
 
-## project components
+### members
 
-- ```gateway```: project gateway api system
-- ```base-api```: project base api system
-- ```ftp server```: file manager system
-- ```ml```: machine learning model
-- ```dashboard```: user interface
-- ```test targets```: testing targets
-- ```deployments```: manifestations for deploying application
+- [Amirhossein Najafizadeh](https://www.linkedin.com/in/amirnhnajafiz21/) , Student at Computer Engineering Dep, Amirkabir University of Technology (```Owner```)
+- [Asal Delkhosh](https://www.linkedin.com/in/asaldelkhosh/) , Student at Computer Science Dep, Amirkabir University of Technology (```Developer```)
+- [Dr.Babak Sadeghian](https://aut.ac.ir/cv/2102/BABAK%20SADEGHIYAN) , Professor at Computer Engineering Dep, Amirkabir University of Technology (```Supervisor```)
+- [Dr.Seyavash Khorsandi](https://aut.ac.ir/cv/2261/SIAVASH%20KHORSANDI) , Professor at Computer Engineering Dep, Amirkabir University of Technology (```Internal Examiner```)
+- Mahdi Barati , Head of APA's organisation security team, Amirkabir University of Technology (```Technical Advisor```)
+
+## about project
+
+| repositories      | Description |
+| ----------------- | ----------- |
+| Gateway      | project gateway api system       |
+| Base-API   | project base api system        |
+| FTP-Server   | file manager system        |
+| ML   | machine learning model        |
+| Dashboard   | user interface        |
+| Scanner   | vs system        |
