@@ -30,3 +30,4 @@ PTaaS is designend and implemented by students of Computer Engineering and Compu
 | Dataset           | A dataset of 3500 penetration testing attacks for our ML | ```v0.3.0``` |
 | Dashboard         | A user interface implemented with Vue.js | ```v0.6.0``` |
 | Scanner           | A vulnerability scanner for base-api usage | ```v0.3.1``` |
+| Test Targets      | Group of targets for testing the application | ```v0.1.0``` |
