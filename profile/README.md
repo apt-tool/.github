@@ -29,4 +29,4 @@ PTaaS is designend and implemented by students of Computer Engineering and Compu
 | ML                | A machine learning classifier model to classify penetration testing attacks base on their vulnerabilities | ```v0.2.0``` |
 | Dataset           | A dataset of 3500 penetration testing attacks for our ML | ```v0.3.0``` |
 | Dashboard         | A user interface implemented with Vue.js | ```v0.6.0``` |
-| Scanner           | A vulnerability scanner for base-api usage | ```v0.2.0``` |
+| Scanner           | A vulnerability scanner for base-api usage | ```v0.3.1``` |
