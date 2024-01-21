@@ -23,11 +23,12 @@ PTaaS is designend and implemented by students of Computer Engineering and Compu
 
 | Repositories      | Description | Image Version |
 | ----------------- | ----------- | :----------: |
-| Gateway           | The project gateway system which is an HTTP server implemented with Golang | ```v0.6.0``` |
-| Base-API          | The project base api system that is the core of the program | ```v0.6.0``` |
-| FTP-Server        | The project file manager system which uses S3 | ```v0.6.0``` |
+| Deployments       | The project deployment files | - |
+| Gateway           | The project gateway system which is an HTTP server implemented with Golang | ```v0.5.2``` |
+| Base-API          | The project base api system that is the core of the program | ```v0.5.3``` |
+| FTP-Server        | The project file manager system which uses S3 | ```v0.5.1``` |
 | ML                | A machine learning classifier model to classify penetration testing attacks base on their vulnerabilities | ```v0.2.0``` |
 | Dataset           | A dataset of 3500 penetration testing attacks for our ML | ```v0.3.0``` |
-| Dashboard         | A user interface implemented with Vue.js | ```v0.6.0``` |
+| Dashboard         | A user interface implemented with Vue.js | ```v0.5.1``` |
 | Scanner           | A vulnerability scanner for base-api usage | ```v0.3.1``` |
 | Test Targets      | Group of targets for testing the application | ```v0.1.0``` |
