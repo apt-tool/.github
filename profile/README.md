@@ -7,6 +7,8 @@ reduces costs of a penetration testing. Also, it provides more observability ove
 Our goal is to reduce penetration testing costs in a cloud environment. Also, we are looking forward to increase
 the process velocity and reduce the human errors.
 
+You can read more about the project at [researchgate](https://www.researchgate.net/publication/378684058_PTaaS_Automated_Penetration_Testing_System).
+
 ## about the project members
 
 PTaaS is designend and implemented by students of Computer Engineering and Computer Science departments at __Amirkabir University of Technology__.
